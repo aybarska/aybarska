@@ -24,7 +24,7 @@
 
 
 # What Have I Done in Github
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aybarska&show_icons=true" alt="aybarska" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aybarska&theme=onedark&show_icons=true" alt="aybarska" /> </p> 
 
 
 ![THX](https://media0.giphy.com/media/qELUinv5TOmyi4XRp4/giphy.gif)
