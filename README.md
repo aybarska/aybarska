@@ -8,6 +8,7 @@
     
 
 [![](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript)]()
+[![](https://img.shields.io/badge/swift-cD1?style=for-the-badge&logo=swift)]()
 [![](https://img.shields.io/badge/react-cD1?style=for-the-badge&logo=react)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/unity-cD1?style=for-the-badge&logo=unity)]()
