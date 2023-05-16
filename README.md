@@ -9,12 +9,9 @@
 
 [![](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/swift-cD1?style=for-the-badge&logo=swift)]()
-[![](https://img.shields.io/badge/react-cD1?style=for-the-badge&logo=react)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/unity-cD1?style=for-the-badge&logo=unity)]()
 [![](https://img.shields.io/badge/node.js-cD1?style=for-the-badge&logo=node.js)]()
 [![](https://img.shields.io/badge/arduino-cD1?style=for-the-badge&logo=arduino)]()
-[![](https://img.shields.io/badge/vue.js-cD1?style=for-the-badge&logo=vue.js)]()
 [![](https://img.shields.io/badge/GitKraken-cD1?style=for-the-badge&logo=GitKraken)]()
     
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/aybarska/)
