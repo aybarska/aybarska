@@ -23,9 +23,9 @@
 
 
 
-# so far in github
+
 <p> <img src="https://media0.giphy.com/media/qELUinv5TOmyi4XRp4/giphy.gif" alt="aybarska" /> </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=aybarska&theme=react&show_icons=true" alt="aybarska" /> </p> 
+
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  https://www.hackerrank.com/aybarska<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p> 
  <p> <img src="https://komarev.com/ghpvc/?username=aybarska" alt="aybarska" /> </p>
    <br><br><br>
